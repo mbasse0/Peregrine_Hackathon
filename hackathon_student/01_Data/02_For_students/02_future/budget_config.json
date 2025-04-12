@@ -1,0 +1,4 @@
+{
+    "monthly_budget_k": 200.0,
+    "monthly_budget_description": "Fixed monthly budget constraint for capital investments in thousands of USD"
+}
