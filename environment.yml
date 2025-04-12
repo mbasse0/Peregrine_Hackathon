@@ -1,0 +1,14 @@
+name: peregrine_hackathon
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - geopandas
+  - folium
+  - plotly 
